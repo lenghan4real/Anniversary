@@ -1,0 +1,18 @@
+body {
+	margin: 0;
+}
+header {
+	padding: 10px 0;
+	background: #f5ab9e;
+	color: #8c3a2b;
+}
+.inner {
+	width: 800px;
+	margin: 0 auto;
+}
+.timer {
+	display: inline-block;
+}
+.timer span {
+	color: #f1f1f1;
+}
