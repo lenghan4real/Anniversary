@@ -1,3 +1,10 @@
+/*
+ *  Hi~ This is the source code of the page.
+ *  
+ *  The timer is inspired by http://lovett.cc/
+ *  And I desighed the rest of the page.
+ *
+ */
 var $ = function(id) { return document.getElementById(id); };
 
 window.onload = function() {
@@ -5,7 +12,7 @@ window.onload = function() {
 };
 
 function update_time() {
-	/* */
+	/* Start Time: 2011.06.19 00:00 */
 	var start_itme = 1308412800;
 	var duration = parseInt(Date.now() / 1000 - start_itme );
 
