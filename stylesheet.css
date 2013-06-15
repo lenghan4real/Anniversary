@@ -1,3 +1,6 @@
+/*
+ *   Style~! Oh-ba-gangnan-style~!
+ */
 body {
 	margin: 0;
 	background-color: #f1f1f1;
@@ -32,6 +35,9 @@ header {
 	box-shadow: 0 0 4px rgba(0,0,0,0.3);
 	overflow-x: hidden;
 	overflow-y: auto;
+}
+#heart {
+
 }
 footer {
 	font-size: 12px;
