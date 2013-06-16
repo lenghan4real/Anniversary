@@ -4,3 +4,7 @@
 
 1. Initialized the project.
 2. Added timer for the DATE.
+
+## 2013-06-16
+
+1. Added "code" for LOVE
