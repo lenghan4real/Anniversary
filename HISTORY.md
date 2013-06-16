@@ -7,4 +7,5 @@
 
 ## 2013-06-16
 
-1. Added "code" for LOVE
+1. Added "code" for LOVE.
+2. Fix some stylesheets.
