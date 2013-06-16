@@ -36,8 +36,20 @@ header {
 	overflow-y: auto;
 }
 #heart {
+	display: none;
 	width: 1000px;
 	margin-top: 30px;
+}
+#code {
+	font-family: Monaco, "Source Code Pro", Consolas, sans-serif;
+	font-size: 16px;
+	margin-top: 50px;
+}
+#code .comments {
+	color: #777;
+}
+#code .keywords {
+	color: #af0040;
 }
 footer {
 	font-size: 12px;

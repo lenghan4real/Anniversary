@@ -32,6 +32,28 @@
 			<canvas id="heart">
 				<!-- What should I draw on this canvas? -->
 			</canvas>
+			<div id="code">
+				<!-- Tell you a brief story using code?! :) 
+					 I have just learnt a little Common Lisp days ago.
+					 Hey! The code below may not pass the compilation...WTF
+			    -->
+				<div class="inner">
+					<span class="comments">;; From Zhejiang to Nanjing</span><br>
+					<span class="comments">;; We are strangers, 2010</span><br>
+					(<span class="keywords">defvar</span> *love* nil)<br>
+					<span class="comments">;; I met you several times</span><br>
+					<span class="comments">;; We flied kites, we played games</span><br>
+					<span class="comments">;; We added love factors into our hearts</span><br>
+					(<span class="keywords">loop</span> (<span class="keywords">add-love-factor</span><br>
+					&nbsp&nbsp(<span class="keywords">if</span> (<span class="keywords">not</span> <span class="keywords">y-or-n-p</span> "add more? [y/n]: "))<br>&nbsp&nbsp&nbsp&nbsp(<span class="keywords">return</span>)<br>&nbsp&nbsp&nbsp&nbsp(<span class="keywords">push</span> factors *love*)))<br>
+					<span class="comments">;; Do you love me? Ry.</span><br>
+					(<span class="keywords">format t</span> "Do you?")<br>
+					<span class="comments">;; Yeah~!</span><br>
+					(<span class="keywords">with-you-accept</span><br>
+					&nbsp&nbsp(<span class="keywords">be-together</span> you me))<br>
+					<span class="comments">;; So the story began...</span>
+				</div>
+			</div>
 			<footer>
 				View it on <a href="https://github.com/SFantasy/Anniversary">GitHub</a> | 
 				Designed by <a href="https://twitter.com/forFantasy">Fantasy</a>
