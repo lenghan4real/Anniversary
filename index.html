@@ -14,7 +14,6 @@
 		<meta charset="utf-8">
 		<meta name="author" content="SFantasy">
 		<link rel="stylesheet" href="stylesheet.css">
-		<script src="timer.js"></script>
 	</head>
 	<body>
 		<div id="main">		
@@ -32,11 +31,11 @@
 			<canvas id="heart">
 				<!-- What should I draw on this canvas? -->
 			</canvas>
+			<!-- Tell you a brief story using code?! :) 
+				 I have just learnt a little Common Lisp days ago.
+				 Hey! The code below may not pass the compilation...WTF
+		    -->
 			<div id="code">
-				<!-- Tell you a brief story using code?! :) 
-					 I have just learnt a little Common Lisp days ago.
-					 Hey! The code below may not pass the compilation...WTF
-			    -->
 				<div class="inner">
 					<span class="comments">;; From Zhejiang to Nanjing</span><br>
 					<span class="comments">;; We are strangers, 2010</span><br>
@@ -60,4 +59,10 @@
 			</footer>
 		</div>
 	</body>
+	<script src="jquery.js"></script>
+	<script src="timer.js"></script>
+	<script src="functions.js"></script>
+	<script>
+		$('#code').typewriter();
+	</script>
 </html>
