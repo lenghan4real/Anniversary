@@ -9,3 +9,8 @@
 
 1. Added "code" for LOVE.
 2. Fix some stylesheets.
+
+## 2013-06-17
+
+1. Fix some stylesheets.
+2. Added jQuery animation "typewriter".
