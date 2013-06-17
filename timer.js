@@ -5,8 +5,6 @@
  *  And I desighed the rest of the page.
  *
  */
-var $ = function(id) { return document.getElementById(id); };
-
 window.onload = function() {
 	update_time();
 };
@@ -36,10 +34,10 @@ function update_time() {
 	duration = parseInt(duration / 24);
 	var days = duration;
 
-	$('day').innerText = days;
-	$('hour').innerText = hours;
-	$('minute').innerText = minutes;
-	$('second').innerText = seconds;
+	$('#day').text(days);
+	$('#hour').text(hours);
+	$('#minute').text(minutes);
+	$('#second').text(seconds);
 
 	setTimeout('update_time()', 1000);
 }
