@@ -14,3 +14,9 @@
 
 1. Fix some stylesheets.
 2. Added jQuery animation "typewriter".
+
+## 2013-06-19
+
+TWO YEARS ANNIVERSIRY
+
+1. Changed several words in the page.
