@@ -1,0 +1,54 @@
+body {
+    background-color: #ea4c88;
+}
+
+
+h1 {
+    font-family: 'Delius Unicase', cursive;
+    color: #fefafb;
+    font-size: 120px;
+    text-align: center;
+}
+
+p {
+    font-family: 'Fanwood Text', serif;
+    font-size: 30px;
+    color: #fff;
+    text-align: center;
+}
+
+.small-p {
+    font-size: 20px;
+}
+
+a {
+    color: #aaa;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #c33;
+    background-color: #fefafb;
+}
+
+#title {
+    height: 1000px;
+    margin-bottom: -550px;
+}
+.title-line {
+    display: block;
+    position: relative;
+    font-size: 180px;
+    margin: auto;
+    line-height: .8;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.title-line > span {
+    display: inline-block;
+    line-height: 1.1;
+    position: relative;
+    right: auto;
+}
+
