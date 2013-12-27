@@ -17,9 +17,149 @@ storyjs_jsonp_data = {
             {
                 "startDate": "2010,8",
                 "headline": "相遇",
-                "text": "那是大学里的第一次年级大会，坐在教室前排左侧的我第一次见到了你 <br> -- 那时好像还是蘑菇头？",
+                "text": "那是大学里的第一次年级大会，坐在教室前排左侧的我第一次见到了你 <br> -- 那时的你好像还是蘑菇头？",
                 "asset": {
                     "media": "http://img3.douban.com/view/photo/photo/public/p2164204305.jpg",
+                    "credit": "image from Google.com",
+                    "caption": "stored on Douban.com, thx."
+                }
+            },
+            {
+                "startDate": "2010,9",
+                "headline": "校园生活",
+                "text": "在这里我们各自开始了全新的校园生活，离家300+公里，对未来充满了憧憬。",
+                "asset": {
+                    "media": "",
+                    "credit": "image from Google.com",
+                    "caption": "stored on Douban.com, thx."
+                }
+            },
+            {
+                "startDate": "2010,11",
+                "headline": "紫金山",
+                "text": "",
+                "asset": {
+                    "media": "",
+                    "credit": "",
+                    "caption": ""
+                }
+            },
+            {
+                "startDate": "2010,12",
+                "headline": "交集",
+                "text": "记得又一次在CR值班的时候你问我一道几代的题目",
+                "asset": {
+                    "media": "",
+                    "credit": "",
+                    "caption": ""
+                }
+            },
+            {
+                "startDate": "2011,5",
+                "headline": "愛上你",
+                "text": "",
+                "asset": {
+                    "media": "",
+                    "credit": "",
+                    "caption": ""
+                }
+            },
+            {
+                "startDate": "2011,6",
+                "headline": "深愛你",
+                "text": "",
+                "asset": {
+                    "media": "",
+                    "credit": "",
+                    "caption": ""
+                }
+            },
+            {
+                "startDate": "2011,6,19",
+                "headline": "在一起",
+                "text": "",
+                "asset": {
+                    "media": "",
+                    "credit": "image from Google.com",
+                    "caption": "stored on Douban.com, thx."
+                }
+            },
+            {
+                "startDate": "2011,6,*",
+                "headline": "第一次去新街口",
+                "text": "",
+                "asset": {
+                    "media": "",
+                    "credit": "",
+                    "caption": ""
+                }
+            },
+            {
+                "startDate": "2011,7",
+                "headline": "第一次去杭州",
+                "text": "",
+                "asset": {
+                    "media": "",
+                    "credit": "",
+                    "caption": ""
+                }
+            },
+            {
+                "startDate": "2011,8",
+                "headline": "转系",
+                "text": "",
+                "asset": {
+                    "media": "",
+                    "credit": "",
+                    "caption": ""
+                }
+            },
+            {
+                "startDate": "2011,10",
+                "headline": "苏州常州",
+                "text": "这一年中秋，和向往、露露一起去了常州恐龙园、苏州观前街、周庄。玩的很开心。",
+                "asset": {
+                    "media": "",
+                    "credit": "",
+                    "caption": ""
+                }
+            },
+            {
+                "startDate": "2011,10,27",
+                "headline": "塔可的生日",
+                "text": "",
+                "asset": {
+                    "media": "",
+                    "credit": "",
+                    "caption": ""
+                }
+            },
+            {
+                "startDate": "2011,11,04",
+                "headline": "方特",
+                "text": "",
+                "asset": {
+                    "media": "",
+                    "credit": "",
+                    "caption": ""
+                }
+            },
+            {
+                "startDate": "2013,7",
+                "headline": "实习",
+                "text": "我们在这一年七月份开始了实习。你在上海，我在南京。",
+                "asset": {
+                    "media": "",
+                    "credit": "",
+                    "caption": ""
+                }
+            },
+            {
+                "startDate": "2014",
+                "headline": "未来",
+                "text": "未来已来。",
+                "asset": {
+                    "media": "",
                     "credit": "image from Google.com",
                     "caption": "stored on Douban.com, thx."
                 }
