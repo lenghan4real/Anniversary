@@ -1,5 +1,10 @@
 # HISTORY
 
+## 2013-12-27
+
+1. Added timeline
+2. Added some time nodes to the timeline
+
 ## 2013-12-16
 
 1. Added 999 page
