@@ -1,0 +1,29 @@
+storyjs_jsonp_data = {
+    "timeline": {
+        "headline": "",
+        "type": "default",
+        "text": "",
+        "date": [
+            {
+                "startDate": "2010",
+                "headline": "相会",
+                "text": "两个来自浙江的孩子，在高考的浪潮中，相会在了东南大学九龙湖畔。",
+                "asset": {
+                    "media": "http://img5.douban.com/view/photo/photo/public/p2164203506.jpg",
+                    "credit": "image from Google.com",
+                    "caption": "stored on Douban.com, thx."
+                }
+            },
+            {
+                "startDate": "2010,8",
+                "headline": "相遇",
+                "text": "那是大学里的第一次年级大会，坐在教室前排左侧的我第一次见到了你 <br> -- 那时好像还是蘑菇头？",
+                "asset": {
+                    "media": "http://img3.douban.com/view/photo/photo/public/p2164204305.jpg",
+                    "credit": "image from Google.com",
+                    "caption": "stored on Douban.com, thx."
+                }
+            }
+        ]
+    }
+}
