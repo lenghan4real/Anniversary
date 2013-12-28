@@ -7,7 +7,7 @@ p,
 section { padding: 0; margin: 0; }
 
 body { font-family: 'Bevan', serif; }
-header { padding: 40px 200px; background-color: #f5ab9e;  }
+header { padding: 20px 200px; background-color: #f5ab9e;  }
 header > h1 { color: #8c3a2b; }
 header small > a { font-size: 12px; color: #f1f1f1; }
 a { color: #007aff; text-decoration: none; }
