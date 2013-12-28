@@ -29,49 +29,59 @@ storyjs_jsonp_data = {
                 "headline": "校园生活",
                 "text": "在这里我们各自开始了全新的校园生活，离家300+公里，对未来充满了憧憬。",
                 "asset": {
-                    "media": "",
+                    "media": "http://img5.douban.com/view/photo/photo/public/p2164359079.jpg",
                     "credit": "image from Google.com",
+                    "caption": "stored on Douban.com, thx."
+                }
+            },
+            {
+                "startDate": "2010,10",
+                "headline": "交集",
+                "text": "班级秋游去的珍珠泉，那时候好像还不认识你。",
+                "asset": {
+                    "media": "http://img3.douban.com/view/photo/photo/public/p2164357513.jpg",
+                    "credit": "image token by 711103",
                     "caption": "stored on Douban.com, thx."
                 }
             },
             {
                 "startDate": "2010,11",
                 "headline": "紫金山",
-                "text": "",
+                "text": "某一次集体活动，在紫金山上的一个角落里玩杀人游戏，晚上还去新街口的麦乐迪通了宵。",
                 "asset": {
-                    "media": "",
-                    "credit": "",
-                    "caption": ""
+                    "media": "http://img5.douban.com/view/photo/photo/public/p2164357658.jpg",
+                    "credit": "image token by 711103",
+                    "caption": "stored on Douban.com, thx."
                 }
             },
             {
-                "startDate": "2010,12",
-                "headline": "交集",
-                "text": "记得又一次在CR值班的时候你问我一道几代的题目",
+                "startDate": "2011,3",
+                "headline": "定向协会",
+                "text": "我在陈梦航和你的唆使下加入定向协会。其实那时我都不知道定向是一项什么运动。",
                 "asset": {
-                    "media": "",
+                    "media": "http://img3.douban.com/view/photo/photo/public/p2164360792.jpg",
+                    "credit": "image from Google.",
+                    "caption": "stored on Douban.com, thx."
+                }
+            },
+            {
+                "startDate": "2011,4",
+                "headline": "春在九龙",
+                "text": "记得我是被迫去踢了回毽子，你来看我了。后来在图书馆门口的大草原上一起放风筝。你跑的很慢哟。",
+                "asset": {
+                    "media": "http://img5.douban.com/view/photo/photo/public/p2164359407.jpg",
                     "credit": "",
                     "caption": ""
                 }
             },
             {
                 "startDate": "2011,5",
-                "headline": "愛上你",
-                "text": "",
+                "headline": "校学生会选举",
+                "text": "只是好奇去看了下学生会主席竞选，一不小心遇到了你。记得晚上回寝室的路上还问了你一个很傻的问题：「你的名字怎么那么搞笑啊」 哈哈~",
                 "asset": {
-                    "media": "",
-                    "credit": "",
-                    "caption": ""
-                }
-            },
-            {
-                "startDate": "2011,6",
-                "headline": "深愛你",
-                "text": "",
-                "asset": {
-                    "media": "",
-                    "credit": "",
-                    "caption": ""
+                    "media": "http://img3.douban.com/view/photo/photo/public/p2164361643.jpg",
+                    "credit": "image from Google.",
+                    "caption": "stored on Douban.com, thx."
                 }
             },
             {
@@ -85,7 +95,7 @@ storyjs_jsonp_data = {
                 }
             },
             {
-                "startDate": "2011,6,*",
+                "startDate": "2011,6,25",
                 "headline": "第一次去新街口",
                 "text": "",
                 "asset": {
@@ -127,7 +137,27 @@ storyjs_jsonp_data = {
             {
                 "startDate": "2011,10,27",
                 "headline": "塔可的生日",
-                "text": "",
+                "text": "在塔可给我过了生日，店里的人还很可爱的放了生日快乐歌给我们，貌似还送了个蛋糕吃~",
+                "asset": {
+                    "media": "http://img3.douban.com/view/photo/photo/public/p2164357170.jpg",
+                    "credit": "image by me",
+                    "caption": "stored on Douban.com, thx."
+                }
+            },
+            {
+                "startDate": "2011,11,4",
+                "headline": "你的生日",
+                "text": "拉上室友，在你的最近来访上凑了个「生日快乐」没有啥创意，但却挺好玩",
+                "asset": {
+                    "media": "http://img5.douban.com/view/photo/photo/public/p2164357099.jpg",
+                    "credit": "image by me",
+                    "caption": "stored on Douban.com, thx."
+                }
+            },
+            {
+                "startDate": "2011,11,5",
+                "headline": "方特",
+                "text": "周末的时候去芜湖的方特玩。来来回回，相当欢乐的一次旅行。记得回南京的时候差点赶不上最后一班地铁。",
                 "asset": {
                     "media": "",
                     "credit": "",
@@ -135,13 +165,33 @@ storyjs_jsonp_data = {
                 }
             },
             {
-                "startDate": "2011,11,04",
-                "headline": "方特",
-                "text": "",
+                "startDate": "2011,12",
+                "headline": "弘扬欢乐世界",
+                "text": "本来想去坐次摩天轮的，不幸的是当天没有开。",
                 "asset": {
-                    "media": "",
-                    "credit": "",
-                    "caption": ""
+                    "media": "http://img3.douban.com/view/photo/photo/public/p2164357253.jpg",
+                    "credit": "image by me",
+                    "caption": "stored on Douban.com, thx."
+                }
+            },
+            {
+                "startDate": "2012,1",
+                "headline": "宜家",
+                "text": "你带我去逛了一次宜家，记得那里的午饭还不错。",
+                "asset": {
+                    "media": "http://img5.douban.com/view/photo/photo/public/p2164357299.jpg",
+                    "credit": "image by me",
+                    "caption": "stored on Douban.com, thx."
+                }
+            },
+            {
+                "startDate": "2012,10",
+                "headline": "栖霞山",
+                "text": "红色枫叶，一如你红色的毛衣",
+                "asset": {
+                    "media": "http://img5.douban.com/view/photo/photo/public/p2164362779.jpg",
+                    "credit": "image by me",
+                    "caption": "stored on Douban.com, thx."
                 }
             },
             {
