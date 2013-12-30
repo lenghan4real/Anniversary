@@ -1,5 +1,9 @@
 # HISTORY
 
+## 2013-12-30
+
+1. Use Qiniu.com as image storage space
+
 ## 2013-12-27
 
 1. Added timeline
