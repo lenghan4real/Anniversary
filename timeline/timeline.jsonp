@@ -89,7 +89,7 @@ storyjs_jsonp_data = {
                 "headline": "在一起",
                 "text": "(*^__^*) ",
                 "asset": {
-                    "media": "",
+                    "media": "http://fantasyshao-timeline.qiniudn.com/together.JPG",
                     "credit": "image by me",
                     "caption": "stored on Qiniu, thx."
                 }
@@ -107,21 +107,10 @@ storyjs_jsonp_data = {
             {
                 "startDate": "2011,7",
                 "headline": "第一次去杭州",
-                "text": "暑假我从上海去了趟杭州找你。",
+                "text": "暑假我从上海去了趟杭州找你玩。盛夏的杭州，我只想说「好多蚊子」！",
                 "asset": {
-                    "media": "",
-                    "credit": "",
-                    "credit": "image by me",
-                    "caption": "stored on Qiniu, thx."
-                }
-            },
-            {
-                "startDate": "2011,8",
-                "headline": "转系",
-                "text": "",
-                "asset": {
-                    "media": "",
-                    "credit": "image by me",
+                    "media": "http://fantasyshao-timeline.qiniudn.com/xihu.jpg",
+                    "credit": "image by Google.",
                     "caption": "stored on Qiniu, thx."
                 }
             },
@@ -130,7 +119,7 @@ storyjs_jsonp_data = {
                 "headline": "苏州常州",
                 "text": "这一年中秋，和向往、露露一起去了常州恐龙园、苏州观前街、周庄。玩的很开心。",
                 "asset": {
-                    "media": "",
+                    "media": "http://fantasyshao-timeline.qiniudn.com/changzhou.JPG",
                     "credit": "image by me",
                     "caption": "stored on Qiniu, thx."
                 }
@@ -160,8 +149,8 @@ storyjs_jsonp_data = {
                 "headline": "方特",
                 "text": "周末的时候去芜湖的方特玩。来来回回，相当欢乐的一次旅行。记得回南京的时候差点赶不上最后一班地铁。",
                 "asset": {
-                    "media": "",
-                    "credit": "image by me",
+                    "media": "http://fantasyshao-timeline.qiniudn.com/fangte.jpg",
+                    "credit": "image by Google.",
                     "caption": "stored on Qiniu, thx."
                 }
             },
@@ -188,10 +177,10 @@ storyjs_jsonp_data = {
             {
                 "startDate": "2012,2,14",
                 "headline": "巧克力",
-                "text": "这一年的情人节我们相聚在了上海。我从南京、你从杭州。",
+                "text": "这一年的情人节我们相聚在了上海。浦东，巧克力",
                 "asset": {
-                    "media": "",
-                    "credit": "image by me",
+                    "media": "http://fantasyshao-timeline.qiniudn.com/chocolate.jpg",
+                    "credit": "image by Google.",
                     "caption": "stored on Qiniu.com, thx."
                 }
             },
@@ -210,17 +199,17 @@ storyjs_jsonp_data = {
                 "headline": "实习",
                 "text": "我们在这一年七月份开始了实习。你在上海，我在南京。",
                 "asset": {
-                    "media": "",
-                    "credit": "image by me",
+                    "media": "http://fantasyshao-timeline.qiniudn.com/shnj.png",
+                    "credit": "image by Google.",
                     "caption": "stored on Qiniu, thx."
                 }
             },
             {
                 "startDate": "2014",
                 "headline": "未来",
-                "text": "未来已来。",
+                "text": "2011~2013 我们一起走过， 2014也一样。",
                 "asset": {
-                    "media": "",
+                    "media": "http://fantasyshao-timeline.qiniudn.com/2014.jpg",
                     "credit": "image from Google.com",
                     "caption": "stored on Qiniu.com, thx."
                 }
