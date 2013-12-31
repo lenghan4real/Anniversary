@@ -87,31 +87,32 @@ storyjs_jsonp_data = {
             {
                 "startDate": "2011,6,19",
                 "headline": "在一起",
-                "text": "",
+                "text": "(*^__^*) ",
                 "asset": {
                     "media": "",
-                    "credit": "image from Google.com",
-                    "caption": "stored on Douban.com, thx."
+                    "credit": "image by me",
+                    "caption": "stored on Qiniu, thx."
                 }
             },
             {
                 "startDate": "2011,6,25",
-                "headline": "第一次去新街口",
-                "text": "",
+                "headline": "第一次去新街口，第一次牵手",
+                "text": "考试完的周末，算是第一次约会吧。第一次一起逛新街口，第一次与你牵手。记得当时手心全是汗TvT 噢哈哈~",
                 "asset": {
-                    "media": "",
-                    "credit": "",
-                    "caption": ""
+                    "media": "http://fantasyshao-timeline.qiniudn.com/xinjiekou.jpg",
+                    "credit": "image by Google",
+                    "caption": "stored on Qiniu, thx."
                 }
             },
             {
                 "startDate": "2011,7",
                 "headline": "第一次去杭州",
-                "text": "",
+                "text": "暑假我从上海去了趟杭州找你。",
                 "asset": {
                     "media": "",
                     "credit": "",
-                    "caption": ""
+                    "credit": "image by me",
+                    "caption": "stored on Qiniu, thx."
                 }
             },
             {
@@ -120,8 +121,8 @@ storyjs_jsonp_data = {
                 "text": "",
                 "asset": {
                     "media": "",
-                    "credit": "",
-                    "caption": ""
+                    "credit": "image by me",
+                    "caption": "stored on Qiniu, thx."
                 }
             },
             {
@@ -130,8 +131,8 @@ storyjs_jsonp_data = {
                 "text": "这一年中秋，和向往、露露一起去了常州恐龙园、苏州观前街、周庄。玩的很开心。",
                 "asset": {
                     "media": "",
-                    "credit": "",
-                    "caption": ""
+                    "credit": "image by me",
+                    "caption": "stored on Qiniu, thx."
                 }
             },
             {
@@ -160,8 +161,8 @@ storyjs_jsonp_data = {
                 "text": "周末的时候去芜湖的方特玩。来来回回，相当欢乐的一次旅行。记得回南京的时候差点赶不上最后一班地铁。",
                 "asset": {
                     "media": "",
-                    "credit": "",
-                    "caption": ""
+                    "credit": "image by me",
+                    "caption": "stored on Qiniu, thx."
                 }
             },
             {
@@ -185,6 +186,16 @@ storyjs_jsonp_data = {
                 }
             },
             {
+                "startDate": "2012,2,14",
+                "headline": "巧克力",
+                "text": "这一年的情人节我们相聚在了上海。我从南京、你从杭州。",
+                "asset": {
+                    "media": "",
+                    "credit": "image by me",
+                    "caption": "stored on Qiniu.com, thx."
+                }
+            },
+            {
                 "startDate": "2012,10",
                 "headline": "栖霞山",
                 "text": "红色枫叶，一如你红色的毛衣",
@@ -200,8 +211,8 @@ storyjs_jsonp_data = {
                 "text": "我们在这一年七月份开始了实习。你在上海，我在南京。",
                 "asset": {
                     "media": "",
-                    "credit": "",
-                    "caption": ""
+                    "credit": "image by me",
+                    "caption": "stored on Qiniu, thx."
                 }
             },
             {
