@@ -1,5 +1,9 @@
 # HISTORY
 
+## 2014-04-29
+
+1. Cancel project 999
+
 ## 2013-12-30
 
 1. Use Qiniu.com as image storage space
