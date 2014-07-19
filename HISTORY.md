@@ -1,5 +1,10 @@
 # HISTORY
 
+## 2014-07-19
+
+1. Update our timeline
+2. Update README file
+
 ## 2014-04-29
 
 1. Cancel project 999

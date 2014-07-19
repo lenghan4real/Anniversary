@@ -8,7 +8,7 @@ Our story began at 06-19-2011, and I wish it will never come to an end.
 ## Contents
 
 - Static site: [love.shaofantasy.cn](http://love.shaofantasy.cn)
-- Our (incomplete) time-line: [timeline](http://love.shaofantasy.cn/timeline/)
+- Our time-line: [timeline](http://love.shaofantasy.cn/timeline/)
 
 ## History
 
