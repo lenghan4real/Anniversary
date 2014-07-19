@@ -187,11 +187,21 @@ storyjs_jsonp_data = {
             {
                 "startDate": "2012,10",
                 "headline": "栖霞山",
-                "text": "红色枫叶，一如你红色的毛衣",
+                "text": "红色枫叶，一如你红色的毛衣 :D",
                 "asset": {
                     "media": "http://fantasyshao-timeline.qiniudn.com/qixia.jpg",
-                    "credit": "image by me",
+                    "credit": "image by fantasy",
                     "caption": "stored on Qiniu.com, thx."
+                }
+            },
+            {
+                "startDate": "2013,4",
+                "headline": "扬州 - 瘦西湖",
+                "text": "烟花三月下扬州，在瘦西湖旁边。（剪刀手笨笨你好~）",
+                "asset": {
+                    "media": "http://fantasyshao-timeline.qiniudn.com/2014IMG_0386.JPG",
+                    "credit": "image by fantasy.",
+                    "caption": "stored on Qiniu, thx."
                 }
             },
             {
@@ -205,9 +215,59 @@ storyjs_jsonp_data = {
                 }
             },
             {
+                "startDate": "2013,10",
+                "headline": "烟台",
+                "text": "在烟台的某个沙滩上和笨笨一起堆的:-)",
+                "asset": {
+                    "media": "http://fantasyshao-timeline.qiniudn.com/2014IMG_0385.JPG",
+                    "credit": "image by fantasy",
+                    "caption": "stored on Qiniu, thx."
+                }
+            },
+            {
+                "startDate": "2014,5",
+                "headline": "毕业季",
+                "text": "穿着学士服的合照",
+                "asset": {
+                    "media": "http://fantasyshao-timeline.qiniudn.com/2014IMG_0130.JPG",
+                    "credit": "image by fantasy",
+                    "caption": "stored on Qiniu, thx."
+                }
+            },
+            {
+                "startDate": "2014,6",
+                "headline": "毕业季 - 四牌楼",
+                "text": "传说中的民国服装，在四牌楼校区的老体育馆",
+                "asset": {
+                    "media": "http://fantasyshao-timeline.qiniudn.com/2014IMG_0298.JPG",
+                    "credit": "image by Paul Stanford.",
+                    "caption": "stored on Qiniu, thx."
+                }
+            },
+            {
+                "startDate": "2014,6,27",
+                "headline": "旅行 - 重庆",
+                "text": "去完坑爹的嵊泗之后，几个人抱团去重庆找xw玩。在重庆的长江索道，穿着在洋人街买的小黄鸭→_→ （大黄鸭你好~）",
+                "asset": {
+                    "media": "http://fantasyshao-timeline.qiniudn.com/2014IMG_0277.JPG",
+                    "credit": "image by fantasy",
+                    "caption": "stored on Qiniu, thx."
+                }
+            },
+            {
+                "startDate": "2014,6,27",
+                "headline": "属于你的我的可口可乐",
+                "text": "正直世界杯期间，在重庆的某商场玩游戏拿了两瓶定制的可口可乐（歌词没选好=_=）",
+                "asset": {
+                    "media": "http://fantasyshao-timeline.qiniudn.com/2014IMG_0230.JPG",
+                    "credit": "image by fantasy",
+                    "caption": "stored on Qiniu, thx."
+                }
+            },
+            {
                 "startDate": "2014",
                 "headline": "未来",
-                "text": "2011~2013 我们一起走过， 2014也一样。",
+                "text": "2011~2013 我们一起走过， 2014也要一样。",
                 "asset": {
                     "media": "http://fantasyshao-timeline.qiniudn.com/2014.jpg",
                     "credit": "image from Google.com",
