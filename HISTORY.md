@@ -1,5 +1,9 @@
 # HISTORY
 
+## 2014-12-23
+
+1. Add two songs in the index.html
+
 ## 2014-07-19
 
 1. Update our timeline
