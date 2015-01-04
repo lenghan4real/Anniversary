@@ -266,7 +266,7 @@ storyjs_jsonp_data = {
             },
             {
                 "startDate": "2015,1,1",
-                "headline": "15年元旦北京"，
+                "headline": "15年元旦北京",
                 "text": "也算是一场说走就走的旅行了…第一次来帝都，见了好几个在北京学习工作的小伙伴，遗憾是时间原因没有去成长城",
                 "asset": {
                     "media": "http://fantasyshao-timeline.qiniudn.com/2015beijing.jpg",
