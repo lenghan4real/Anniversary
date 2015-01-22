@@ -195,6 +195,16 @@ storyjs_jsonp_data = {
                 }
             },
             {
+                "startDate": "2013,3,5",
+                "headline": "鸡鸣寺",
+                "text": "在南京呆了那么多年，第一次去四牌楼后面的鸡鸣寺。",
+                "asset": {
+                    "media": "http://fantasyshao-timeline.qiniudn.com/jimingsi.JPG",
+                    "credit": "image by sceliay",
+                    "caption": "stored on Qiniu.com, thx."
+                }
+            },
+            {
                 "startDate": "2013,4",
                 "headline": "扬州 - 瘦西湖",
                 "text": "烟花三月下扬州，在瘦西湖旁边。（剪刀手笨笨你好~）",
@@ -221,6 +231,16 @@ storyjs_jsonp_data = {
                 "asset": {
                     "media": "http://fantasyshao-timeline.qiniudn.com/2014IMG_0385.JPG",
                     "credit": "image by fantasy",
+                    "caption": "stored on Qiniu, thx."
+                }
+            },
+            {
+                "startDate": "2013,10,26",
+                "headline": "湖南路3D画展",
+                "text": "羞涩的合照 XD",
+                "asset": {
+                    "media": "http://fantasyshao-timeline.qiniudn.com/3Dgallery.JPG",
+                    "credit": "image by sceliay",
                     "caption": "stored on Qiniu, thx."
                 }
             },
